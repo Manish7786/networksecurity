@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Manish/udemy_course/codes/Section_49_Network_Security_System/NetworkSecurity/mlruns/0/models/m-d9f880cb6aaa4348ab1a5c6a3588ef50/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-d9f880cb6aaa4348ab1a5c6a3588ef50
+model_size_bytes: 13464799
+model_uuid: m-d9f880cb6aaa4348ab1a5c6a3588ef50
+prompts: null
+run_id: 5c2ffb855bf444f296cf30c5447877c3
+utc_time_created: '2025-06-18 06:30:43.936160'

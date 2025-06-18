@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Manish/udemy_course/codes/Section_49_Network_Security_System/NetworkSecurity/mlruns/0/5c2ffb855bf444f296cf30c5447877c3/artifacts
+end_time: 1750228247501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c2ffb855bf444f296cf30c5447877c3
+run_name: rogue-duck-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750228243712
+status: 3
+tags: []
+user_id: Manish
